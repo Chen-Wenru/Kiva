@@ -1,9 +1,9 @@
-<h1 align="center">Kiva</h1>
+<h1 align="center">Oava</h1>
 
 <p align="center">
     <img src="https://i.imgur.com/g0XBUMN.png" width="256" style=""/>
     <br />
-    <strong>Fast, Easy, Modern</strong>
+    <strong>Rotten, F**ks, Slow, SVE, Hates</strong>
 </p>
 
 <p align="center">
